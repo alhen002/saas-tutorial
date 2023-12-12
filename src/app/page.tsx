@@ -24,10 +24,7 @@ const perks = [
       "We've pledged 1% of sales to the preservation and restoration of the nature enviroment",
   },
 ];
-/**
- * Renders the home page of the marketplace
- * @returns {JSX.Element} The rendered home page
- */
+
 export default function Home() {
   return (
     <>
